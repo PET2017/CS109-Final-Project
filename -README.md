@@ -6,7 +6,7 @@ This folder contains all of our data files used in the project as well as our pr
 
 Finally, our project website is located at: cs109final.com
 
-And our video is on YouTube at: 
+And our video is on YouTube at: https://youtu.be/S0Ny1nX0soo
 
 Thanks so much for your help, have a great break!
 
